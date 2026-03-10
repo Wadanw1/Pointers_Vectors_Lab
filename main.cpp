@@ -113,6 +113,6 @@ int main() {
         }
     }
 
-    // myStore goes out of scope here, calling destructor automatically
+    // myStore goes out of here, calling destructor 
     return 0;
 }
